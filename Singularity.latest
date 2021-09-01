@@ -12,6 +12,8 @@ From: ubuntu:20.04
     samtools, sqlite3, gawk, perl,
     and general stuff for compiling and odds and ends
 
+    poke
+
 %environment
     export LC_ALL=C.UTF-8
     export LANG=C.UTF-8
